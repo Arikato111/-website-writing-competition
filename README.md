@@ -1,6 +1,9 @@
-## how to install that web
-create folder `11pdln` in your htdocs and copy this source code to that
-or move folder `11pdln` to `htdocs`
+## source code ของการแข่งขันเขียนเว็บไซต์ระดับภาคที่ได้เข้าร่วม
 
-that source is get the idea from [package.anytion](https://package.anytion.com/) 
-but it not public template or modules yet, it will get public under mit license at soon
+### ` ทักษะการพัฒนานวัตกรรมธุรกิจดิจิทัล `
+
+### วิธีติดตั้ง
+
+- สร้างโฟลเดอร์ชื่อ `11pdln` ข้างในโฟลเดอร์ `htdocs` จากนั้นย้ายโค้ดทั้งหมดเข้าไปในโฟลเดอร์ `11pdln`
+
+- สร้าง database ชื่อ `eden` จากนั้นทำการ import `eden(1).sql` ไปที่ database
