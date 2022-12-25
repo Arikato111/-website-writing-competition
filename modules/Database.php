@@ -1,2 +1,2 @@
 <?php 
-$db = new mysqli('localhost', 'root', '', 'eden');
+$db = new mysqli('localhost', '11pdln', '11pdln', '11pdln');
