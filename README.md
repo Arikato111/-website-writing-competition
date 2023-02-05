@@ -11,4 +11,4 @@
 
 - สร้าง database ชื่อ `11pdln` จากนั้นทำการ import `database.sql` ไปที่ database
 
-- แก้ไขข้อมูลการเชื่อมต่อ database ได้ที่ `module/Database.php`
+- แก้ไขข้อมูลการเชื่อมต่อ database ได้ที่ `modules/Database.php`
